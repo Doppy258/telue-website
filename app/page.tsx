@@ -36,7 +36,7 @@ export default function Home() {
           <div 
             className="w-full h-full bg-cover bg-center bg-no-repeat"
             style={{
-              backgroundImage: "url('/HQ front.png')",
+              backgroundImage: "url('/HQ Front.png')",
             }}
           />
         </div>
